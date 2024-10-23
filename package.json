@@ -1,0 +1,12 @@
+{
+  "name": "lfu",
+  "version": "1.0.0",
+  "description": "基本上是全网“最”详细的大文件上传教程\r # 技术架构\r 有vue2（基础版）跟vue3（完整版）两个不同版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
