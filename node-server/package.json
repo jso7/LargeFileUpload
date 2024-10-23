@@ -4,7 +4,7 @@
   "description": "处理前端大文件上传",
   "main": "index.js",
   "scripts": {
-    "dev:v2": "nodemon LargeFile-upload.js",
+    "dev:v2": "nodemon LargeFile-upload.js"
   },
   "author": "",
   "license": "ISC",

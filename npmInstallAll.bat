@@ -1,1 +1,1 @@
-cd node-server && npm i && cd .. && cd LargeFile-upload && npm i
+cd node-server && npm i && cd .. && cd v2-file-upload && npm i
